@@ -22,3 +22,8 @@ _cat&dog_
 | cat|   |   |   |   |
 | cat|   |   |   |   |
 | cat|   |   |   |   |
+
+
+```JS
+console.log(hello world!);
+```
