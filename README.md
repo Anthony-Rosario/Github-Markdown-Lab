@@ -5,6 +5,15 @@
 1. the feel 
 1. for this stuff
 
+# Bullet List
+
+1. candles
+    * scented 
+    * unscented
+2. owls 
+    * nocturnal
+    * other interesting owl facts
+
 
 # Random
 ## Space Captain
@@ -22,3 +31,8 @@ _cat&dog_
 | cat|   |   |   |   |
 | cat|   |   |   |   |
 | cat|   |   |   |   |
+
+
+```JS
+console.log(hello world!);
+```
